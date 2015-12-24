@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    margin: auto;
+}
+#container{
+    background-color: #f1f1f1;
+}
+.card p{
+    text-decoration-color: black;
+}
+.brand-logo{
+    margin-left: 0.5em;
+}
+.last-msg{
+    margin-left: 0.3em;
+    border-left: solid #0288D1 0.3em;
+}
+.msg-board{
+    margin-left: 0.3em;
+    border-left: solid #FFEB3B 0.3em;
+}
+.dark-primary-color    { background: #0288D1; }
+.default-primary-color { background: #03A9F4; }
+.light-primary-color   { background: #B3E5FC; }
+.text-primary-color    { color: #FFFFFF; }
+.accent-color          { background: #FFEB3B; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #727272; }
+.divider-color         { border-color: #B6B6B6; }

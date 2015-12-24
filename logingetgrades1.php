@@ -41,9 +41,6 @@
 							</div>
 						</div>
 					</form>
-					<div id="msg-error" class="col-xs-12">
-						<p>密码错误，请重新输入</p>
-					</div>
 				</div>
 			</div>
 

@@ -1,0 +1,40 @@
+#loginbox {
+    width: 100%;
+
+}
+
+.banner {
+    height: 10em;
+}
+
+#avatar {
+    height: 5em;
+    width: auto;
+    margin-top: -2.5em;
+    margin-left: 15%;
+}
+
+.btn-login,
+.btn-register {
+    /*width: 31% !important;*/
+    background-color: #03A9F4;
+    margin-top: 1em;;
+}
+.btn-login{
+    width: 93%;
+}
+.btn-register {
+    background-color: #1eaaf1;
+}
+
+.submit-container {
+    width: 96%;
+}
+
+.btn-large:hover {
+    background-color: #1689ce;
+}
+
+.offset-s1{
+    /*margin-left: 8.33333% !important;*/
+}

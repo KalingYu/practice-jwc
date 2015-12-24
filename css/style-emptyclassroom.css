@@ -1,0 +1,14 @@
+#location-classroom{
+	float: right;
+	/*margin-right: 2em;*/
+}
+#time-classroom{
+	float: left;
+	/*margin-left: 2em;*/
+}
+
+table,
+table td,
+table th{
+	text-align: center;
+}

@@ -54,7 +54,14 @@ html,body {
 	font-size: 16px !important;
 }
 #msg-error{
+	display: none;
 	text-align: center;
 	margin-top: 2em;
 	color: red;
+}
+
+table,
+table td,
+table th{
+	text-align: center;
 }
