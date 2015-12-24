@@ -9,3 +9,8 @@
 ###待完成
 - 空闲教室查询
 - 学生课表查询
+
+---
+###其它
+- 登录入口文件是：logingetgrades.php
+- 登录入口地址是：http://tujinote.com/jwc/logingetgrades.php
