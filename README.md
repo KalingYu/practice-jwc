@@ -13,4 +13,3 @@
 ---
 ###其它
 - 登录入口文件是：logingetgrades.php
-- 登录入口地址是：http://tujinote.com/jwc/logingetgrades.php
